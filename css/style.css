@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Almarai:wght@300;400;700;800&display=swap');
+
+.navbar p {    
+    font-family: "Almarai", sans-serif;
+    font-size: 17px;
+    font-weight: 400px;
+    line-height: 34px;
+    color: #1c2b4f;    
+    margin-right: 80px;
+}
+
+.navbar button{
+    width: 150px;
+}
+
+.logo-text {
+    color: #1c2b4f;
+    font-family: "Almarai", sans-serif;
+    font-size: 30px;
+    line-height: 43px;
+    font-weight: 400;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.nav a {
+    color: #1C2B4F;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 29px;
+}
+
+.hero{
+    width: 65%;
+}
+
+.text-hero h5{
+    font-size: 26px;
+    line-height: 42px;
+    font-weight: 500;
+    font-family: "Almarai", sans-serif;
+}
+
+.carousel-item {
+    display: flex;
+  }
+  .card {
+    border: none;
+    margin: 5px;
+  }
+  .card img {
+    height: 150px;
+    object-fit: cover;
+  }
+  .card-title {
+    font-size: 1rem;
+    font-weight: bold;
+  }
+  .carousel-caption {
+    background-color: rgba(0, 0, 0, 0.6);
+    color: white;
+    padding: 10px;
+    text-align: center;
+  }
+
+  .custom-control {
+    width: 70px;
+    height: 100%; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.5); 
+    z-index: 1; 
+  }
+  
+  .carousel-control-next-icon {
+    width: 30px; 
+    height: 30px; 
+    background-size: 100%;
+    margin-right: -210px;
+    background-color: #1C2B4F;
+  }
+
+  .carousel-control-prev-icon {
+    width: 30px; 
+    height: 30px; 
+    background-size: 100%;
+    margin-left: -210px;
+    background-color: #1C2B4F;
+  }
+  
+  .news-card {
+    border: 1px solid #e5e5e5;
+    margin-bottom: 15px;
+    background-color: #fff;
+    padding: 15px;
+  }
+
+  .news-card .category {
+    font-size: 0.9rem;
+    color: #1C2B4F;
+  }
+  .news-card .time-ago {
+    font-size: 0.85rem;
+    color: #1C2B4F;
+  }
+  .news-card h5 {
+    font-size: 1.1rem;
+    font-weight: bold;
+  }
+  .news-card .actions {
+    font-size: 0.85rem;
+  }
+  .news-card .actions i {
+    margin-right: 5px;
+  }
+  .highlighted-news {
+    background-color: #1C2B4F;
+    color: #fff;
+  }
+  .highlighted-news h5 {
+    color: #fff;
+  }
+  .highlighted-news .category {
+    color: #e3e3e3;
+  }
+  .highlighted-news .time-ago {
+    color: #e3e3e3;
+  }
+  .highlighted-news .actions i {
+    color: #fff;
+  }
+
+  footer{
+    color: #1C2B4F;
+  }
+
+  .container a{
+    color: #1C2B4F;
+    text-decoration: none;
+  }
